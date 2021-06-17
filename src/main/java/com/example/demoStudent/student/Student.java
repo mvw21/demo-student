@@ -1,4 +1,4 @@
-package com.example.demoasdf.student;
+package com.example.demoStudent.student;
 
 public class Student {
     private final Integer studentId;

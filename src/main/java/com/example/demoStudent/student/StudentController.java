@@ -1,4 +1,4 @@
-package com.example.demoasdf.student;
+package com.example.demoStudent.student;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
